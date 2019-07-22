@@ -33,7 +33,6 @@ stream.on('tweet', function(tweet) {
 
 })
 
-
 function tweetImage(path, name, nameID) {
 
     fs.readFile(path, {
