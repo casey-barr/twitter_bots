@@ -1,2 +1,2 @@
 # twitter_bots
-collection of twitter bots i use anonymously around the web :)
+collection of twitter bots i use around the web :)
